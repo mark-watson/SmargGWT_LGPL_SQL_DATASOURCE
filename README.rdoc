@@ -6,4 +6,6 @@ I set up an IntelliJ project with all of the dependencies. I wrote this up on my
 
 http://blog.markwatson.com/2011/11/writing-simple-sql-data-source-for-free.html
 
+You will need PostgreSQL setup and edit DbUtils.java to set DB connection data.
+
 -Mark Watson

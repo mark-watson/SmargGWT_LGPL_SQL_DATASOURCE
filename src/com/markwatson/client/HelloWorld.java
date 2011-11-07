@@ -10,7 +10,7 @@ import com.smartgwt.client.widgets.layout.VStack;
  */
 
 /**
- * Entry point classes define <code>onModuleLoad()</code>.
+ * GWT/SmartGWT entry point
  */
 public class HelloWorld implements EntryPoint {
 
@@ -24,12 +24,12 @@ public class HelloWorld implements EntryPoint {
     vs.setWidth("70%");
     vs.setMembersMargin(20);
 
-    // first sample listgrid filled with an arbitrary SQL query:
+    // first sample ListGrid filled with an arbitrary SQL query:
     ListGrid listGrid = new ListGrid();
     listGrid.setDataSource(new SqlDS("select title, content, uri from news where content like '%Congress%'"));
     listGrid.setAutoFetchData(true);
 
-    // second sample listgrid filled with an arbitrary SQL query:
+    // second sample ListGrid filled with an arbitrary SQL query:
     ListGrid listGrid2 = new ListGrid();
     listGrid2.setDataSource(new SqlDS("select title, content from news"));
     listGrid2.setAutoFetchData(true);

@@ -26,7 +26,7 @@ public class DbUtils {
       Class.forName("org.postgresql.Driver");
       // Define the data source for the driver
       dbURL = "jdbc:postgresql://localhost/kbsportal_development";
-      dbCon = DriverManager.getConnection(dbURL, "postgres", "foo21");
+      dbCon = DriverManager.getConnection(dbURL, "postgres", "password");
     } catch (Exception e) {
       e.printStackTrace();
     }
