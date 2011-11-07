@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/jackson-mapper-lgpl-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/postgresql-9.0-801.jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/smartgwt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/smartgwt-skins.jar!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/gwt-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/war/WEB-INF/lib/jackson-core-lgpl-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

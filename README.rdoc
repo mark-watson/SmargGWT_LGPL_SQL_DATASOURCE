@@ -1,0 +1,9 @@
+This is a simple example custom SQL DataSOurce class that uses the sample web application that is provided with the free LGPL version of SmartGWT which is available at:
+
+http://code.google.com/p/smartgwt/
+
+I set up an IntelliJ project with all of the dependencies. I wrote this up on my bog at:
+
+http://blog.markwatson.com/2011/11/writing-simple-sql-data-source-for-free.html
+
+-Mark Watson
