@@ -13,6 +13,6 @@ You will need PostgreSQL setup and edit DbUtils.java to set DB connection data. 
  172 | 17662   |  Mark site      | http://markwatson.com/consulting/
  184 | 17663   |  OBama's Budget | http://news.com/12345
 
-2017/04/18: NOTE: two people have reported that while this 6 year old example works using AppEngine (specifially in dev mode), that they had problems running under Tomcat. We should probbly consider this example to be deprecated or "past it's sell by date."
+2017/04/18: NOTE: two people have reported that while this 6 year old example works using AppEngine (in dev mode), that they had problems running under Tomcat. We should probbly consider this example to be deprecated or "past it's sell by date."
 
 -Mark Watson
