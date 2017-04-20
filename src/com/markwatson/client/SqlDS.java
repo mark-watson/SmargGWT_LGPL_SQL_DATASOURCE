@@ -28,6 +28,6 @@ public class SqlDS extends DataSource {
       }
     }
     // should do a better job at UUENCODEing SQL:
-    setDataURL("/news?query=" + sql.replaceAll(" ", "20%"));
+    setDataURL("news?query=" + sql.replaceAll(" ", "20%"));
   }
 }
